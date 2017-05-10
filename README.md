@@ -1,2 +1,2 @@
-# RetroCalculator
+# Retro Calculator
 Create a retro calculator.
